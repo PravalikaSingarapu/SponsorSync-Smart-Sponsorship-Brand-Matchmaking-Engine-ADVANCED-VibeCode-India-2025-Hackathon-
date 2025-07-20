@@ -1,0 +1,2 @@
+# SponsorSync-Smart-Sponsorship-Brand-Matchmaking-Engine-ADVANCED-VibeCode-India-2025-Hackathon-
+“We’re building SponsorSync, a smart sponsorship matchmaking engine integrated into EventEye, to solve a common gap — student organizers struggle to find sponsors, and brands miss out on highly targeted event exposure. With SponsorSync, clubs can build sponsor-ready profiles showcasing audience size, past reach, and engagement data.
