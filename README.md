@@ -56,25 +56,13 @@ SponsorSync bridges this gap by providing:
 
 ---
 
-## 👥 Team
-
-| Name             | Role            |
-|------------------|-----------------|
-| Pravalika Singarapu | Full Stack Dev, Pitch & Idea Lead |
-| [Teammate 2]     | Frontend / UI UX |
-| [Teammate 3]     | Backend / Data  |
-| [Teammate 4]     | AI/ML / Docs    |
-
----
-
-## 📢 Presentation Deck / Demo
-
-> Link to [Demo Video]() or [Pitch Deck]() (Add once ready)
-
----
+## 👥 Presented By:
+                   Pravalika Singarapu
 
 
 ---
+
+
 
 ## 🙌 Acknowledgements
 
